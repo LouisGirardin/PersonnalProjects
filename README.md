@@ -11,6 +11,3 @@ The images were taken from anonymised patients.
 The random forest patched code is a comparison of the Aortic Dissection Classifier against the same code using patching of the image. (The run takes a long time)
 
 ----------------
-Project Realised during Certifications:
-Analysed Australian weather data, employing classification algorithms including Linear Regression, KNN, Decision Trees, Logistic Regression, and SVM to predict rain occurrences. Pre-processed the data, trained models, and evaluated their performance.
-
